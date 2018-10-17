@@ -8,7 +8,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace get_display
+namespace GetDisplay
 {
     class Program
     {
